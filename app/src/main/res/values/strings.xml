@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UsandoButterKnife</string>
+    <string name="button_butterkinfe">Button ButterKinfe</string>
+    <string name="texto_one">Texto uno</string>
+    <string name="texto_two">Texo dos</string>
+    <string name="texto_third">Texto tres</string>
+    <string name="toast">Usando ButterKnife</string>
+</resources>
